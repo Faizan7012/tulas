@@ -80,7 +80,7 @@ Install dependencies
 Start the server
 
 ```bash or zsh
-  npm run start
+  npm run dev
 ```
 
 
