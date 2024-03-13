@@ -1,0 +1,12 @@
+.topbg{
+  background-color: rgb(212, 207, 207);
+}
+
+.bottomPlacement{
+  background: linear-gradient(
+    180deg,
+    rgba(1, 0, 0, 1) 0%,
+    rgba(0, 67, 72, 1 ) 50%,
+    rgba(33, 0, 0, 1 ) 100%
+  );
+}
