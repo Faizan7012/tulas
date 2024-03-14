@@ -19,7 +19,7 @@
   
 
 <p align="center">
-  <a href="https://loquacious-marshmallow-7e5b22.netlify.app/">
+  <a href="https://stellular-empanada-b1d4a5.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Tulas!; ..... 👨🏻‍💻; Through%20this%20App%20%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <h2 align="left"><i>Deployed link</i></h2>
 
-<h3 align="left"><a>Live Link   =  <a href="https://loquacious-marshmallow-7e5b22.netlify.app/">https://loquacious-marshmallow-7e5b22.netlify.app/</a></a></h3>
+<h3 align="left"><a>Live Link   =  <a href="https://stellular-empanada-b1d4a5.netlify.app/">https://stellular-empanada-b1d4a5.netlify.app/</a></a></h3>
 
 <h1>Contributor</h1>
     <ul>
@@ -49,6 +49,13 @@
   <img src='https://i.ibb.co/3sGXnGr/Screenshot-306.png' alt='1' /><br />
   <img src='https://i.ibb.co/xYwMG2z/Screenshot-307.png' alt='2' /><br />
   <img src='https://i.ibb.co/GfSSLPC/Screenshot-308.png' alt='3' /><br />
+  <img src='https://i.ibb.co/1nzXR1w/Screenshot-314.png' alt='4' /><br />
+  <img src='https://i.ibb.co/7yJYNTg/Screenshot-313.png' alt='5' /><br />
+  <img src='https://i.ibb.co/HhqVLg7/Screenshot-312.png' alt='6' /><br />
+  <img src='https://i.ibb.co/YRTr2DP/Screenshot-309.png' alt='7' /><br />
+  <img src='https://i.ibb.co/1z8w1hd/Screenshot-310.png' alt='8' /><br />
+  <img src='https://i.ibb.co/DpkV06P/Screenshot-311.png' alt='9' /><br />
+  
 </div>
 
       
@@ -89,7 +96,7 @@ Start the server
 
 
 <p align="center">
-  <a href="https://loquacious-marshmallow-7e5b22.netlify.app/">
+  <a href="https://stellular-empanada-b1d4a5.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Thank You!  👨🏻‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
