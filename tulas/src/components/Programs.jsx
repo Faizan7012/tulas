@@ -1,9 +1,10 @@
 import { Box, Text } from '@chakra-ui/react'
 import React from 'react'
 
-const Programs = ({url , type}) => {
+const Programs = ({url , type , index}) => {
   return (
 <Box
+key={index}
 h="400px"
 backgroundImage={`url(${url})`}
 backgroundSize="cover"
@@ -21,9 +22,10 @@ boxShadow="md"
   bg="rgba(0, 0, 0, 0.6)"
   borderBottomRadius="md"
   fontSize={'20px'}
+  className='glow'
 >
-  <Text color="white">DEPARTMENT OF</Text>
-  <Text color="white" >{type}</Text>
+  <Text color="white" >DEPARTMENT OF</Text>
+  <Text color="white">{type}</Text>
 </Box>
 </Box>
   )

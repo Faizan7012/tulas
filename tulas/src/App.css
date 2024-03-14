@@ -10,3 +10,15 @@
     rgba(33, 0, 0, 1 ) 100%
   );
 }
+
+   .glow{
+    transition: transform 0.3s ease;
+    cursor: pointer;
+   }
+
+   .glow:hover {
+    transform: scale(1.3)
+   }
+  
+  
+ 
