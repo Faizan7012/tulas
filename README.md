@@ -44,14 +44,23 @@
 
 <h2 align="left"><i>Preview Of This App</i></h2>
 
-
+<h2 align="left">Laptop View</h2>
 <div align="left">
-  <img src='https://i.ibb.co/3sGXnGr/Screenshot-306.png' alt='1' /><br />
+   <img src='https://i.ibb.co/3sGXnGr/Screenshot-306.png' alt='1' /><br />
   <img src='https://i.ibb.co/xYwMG2z/Screenshot-307.png' alt='2' /><br />
   <img src='https://i.ibb.co/GfSSLPC/Screenshot-308.png' alt='3' /><br />
+</div>
+<h2 align="left">Tablet View</h2>
+<h2 align="left">Mobile View</h2>
+
+<div align="left">
+  
   <img src='https://i.ibb.co/1nzXR1w/Screenshot-314.png' alt='4' /><br />
   <img src='https://i.ibb.co/7yJYNTg/Screenshot-313.png' alt='5' /><br />
   <img src='https://i.ibb.co/HhqVLg7/Screenshot-312.png' alt='6' /><br />
+</div>
+<div align="left">
+ 
   <img src='https://i.ibb.co/YRTr2DP/Screenshot-309.png' alt='7' /><br />
   <img src='https://i.ibb.co/1z8w1hd/Screenshot-310.png' alt='8' /><br />
   <img src='https://i.ibb.co/DpkV06P/Screenshot-311.png' alt='9' /><br />
